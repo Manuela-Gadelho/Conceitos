@@ -1,0 +1,21 @@
+Muitos desenvolvedores já ouviram falar sobre Clean Code, ou Código Limpo, e quando falamos sobre isso é comum associarmos à um código com fácil manutenção.
+
+Mas, será que Clean Code é só sobre um código fácil de dar manutenção?
+
+https://www.alura.com.br/artigos/o-que-e-clean-code
+
+O que é um código com fácil manutenção ?
+Quando falamos de um código com fácil manutenção estamos nos referindo à um código com Baixo Acoplamento, Alta Coesão, usando SOLID, Imutabilidade (quando fizer sentido), aplicando Design Patterns, minimizando Side Effects, maximizar o uso de Funções Puras e várias outras coisas.
+
+Tudo isso pode ser resumido em ter um bom Design de Código,uma parte muito importante em ter um código limpo.
+
+E o que mais meu código precisa ter para ser considerado um código limpo?
+
+Um código limpo é a composição de diversas características, como:
+
+Legível
+Um código compreensivo possibilita a identificação de pontos que precisam ser melhorados. Passamos mais tempo lendo código do que escrevendo então, quanto mais fácil for ler o código menos esforço fazemos para entendê-lo.
+Testável
+Devemos testar nossos código, pois isso vai dar-nos segurança para podermos alterá-los. E garantir que os cenários que previmos estão de acordo com o esperado.
+Fácil de ser mantido
+Nosso código deve passivo de alteração tanto para adição de novas funcionalidades, quanto para aumentar a legibilidade ou manutenibilidade.
